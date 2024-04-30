@@ -91,19 +91,19 @@ The network is meticulously divided into multiple subnets to ensure efficient da
 - **OSPF Routing**: Implemented for seamless internal connectivity.
 - **Traffic Forwarding**: Configured to handle traffic to and from the upstream service provider efficiently.
 - **Security Measures**: Includes detailed access control and password protection strategies to secure network access and data integrity.
-➢ Password for privileged access mode : ``class``
-➢ Password for rest of the requirements : ``cisco``
+- ➢ Password for privileged access mode : ``class``
+- ➢ Password for rest of the requirements : ``cisco``
 
 ## Conclusion
-The network configuration project for Pulchowk Campus has been successfully completed, adhering to the outlined guidelines. This configuration supports robust connectivity and is designed to be scalable to accommodate future expansions or technological upgrades.
+Hence the area , subnet and VLANs were created as mentioned. The routers have been named according to
+the specified convention. The passwords for privileged access mode and other requirements have
+been appropriately set. Network and VLAN labeling has been meticulously implemented using the assigned network IDs. IP addresses have been assigned and labeled for both PCs and router interfaces. Servers have been labeled with their respective services, ensuring clear identification.
+The implementation of OSPF for internal routing, as proposed, has been realized, enabling seamless
+connectivity between internal networks. Additionally, traffic forwarding to the upstream service
+provider and efficient routing of network packets from the ISP without dynamic routing has been
+established, with minimal route entries for optimal efficiency. The sample network of Pulchowk
+campus was realized. This configuration supports robust connectivity and is designed to be scalable to accommodate future expansions or technological upgrades.
 
----
-
-### Instructions for Network Updates
-To update the network settings or expand the network configuration:
-1. Refer to the subnetting section for details on existing configurations.
-2. Follow the VLAN setup instructions to modify or add new VLANs.
-3. Adjust OSPF settings as necessary to improve routing efficiencies or to accommodate network changes.
 
 
 
