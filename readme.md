@@ -95,14 +95,18 @@ The network is meticulously divided into multiple subnets to ensure efficient da
 - ➢ Password for rest of the requirements : ``cisco``
 
 ## Conclusion
-Hence the area , subnet and VLANs were created as mentioned. The routers have been named according to
-the specified convention. The passwords for privileged access mode and other requirements have
-been appropriately set. Network and VLAN labeling has been meticulously implemented using the assigned network IDs. IP addresses have been assigned and labeled for both PCs and router interfaces. Servers have been labeled with their respective services, ensuring clear identification.
-The implementation of OSPF for internal routing, as proposed, has been realized, enabling seamless
-connectivity between internal networks. Additionally, traffic forwarding to the upstream service
-provider and efficient routing of network packets from the ISP without dynamic routing has been
-established, with minimal route entries for optimal efficiency. The sample network of Pulchowk
-campus was realized. This configuration supports robust connectivity and is designed to be scalable to accommodate future expansions or technological upgrades.
+In conclusion, the areas, subnets, and VLANs have been successfully configured, and the routers have been named according to a specific convention [1, 2, 3]. The passwords for privileged access mode and other requirements have been set and met other security requirements. Network and VLAN labeling have been meticulously implemented using the assigned network IDs. IP addresses have been strategically assigned and clearly labeled for both PCs and router interfaces. Additionally, servers have been labeled according to their respective services to ensure easy identification.
+
+The implementation of OSPF for internal routing, as initially proposed, has been successfully realized. This configuration enables seamless connectivity between internal networks. Furthermore, traffic forwarding to the upstream service provider has been optimized, and efficient routing of network packets from the ISP has been established without the need for dynamic routing. This is achieved with minimal route entries to ensure optimal efficiency.
+
+The sample network at Pulchowk campus has been effectively realized. This setup not only supports robust connectivity but is also designed to be scalable, accommodating future expansions and technological upgrades.
+
+
+
+
+
+
+
 
 
 
