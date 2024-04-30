@@ -91,6 +91,8 @@ The network is meticulously divided into multiple subnets to ensure efficient da
 - **OSPF Routing**: Implemented for seamless internal connectivity.
 - **Traffic Forwarding**: Configured to handle traffic to and from the upstream service provider efficiently.
 - **Security Measures**: Includes detailed access control and password protection strategies to secure network access and data integrity.
+➢ Password for privileged access mode : ``class``
+➢ Password for rest of the requirements : ``cisco``
 
 ## Conclusion
 The network configuration project for Pulchowk Campus has been successfully completed, adhering to the outlined guidelines. This configuration supports robust connectivity and is designed to be scalable to accommodate future expansions or technological upgrades.
