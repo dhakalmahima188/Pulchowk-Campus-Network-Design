@@ -11,10 +11,10 @@ This project outlines the network configuration for Pulchowk Campus, designed to
 - **VLANs**: 3 (Block A, B, C across 3 floors)
 - **Servers**: Primary and Secondary DNS, Web Server
 - **ISP**: NTC with 1 dedicated line
-![alt text](./config-images/image.png)
+![alt text](./config-images/arch.png)
 
 ## Architecture
-![alt text](./config-images/image-1.png)
+![alt text](./config-images/architecture.png)
 
 ## Subnetting Details
 The network is meticulously divided into multiple subnets to ensure efficient data routing and isolation between departments. The subnets range from /25 to /30 masks accommodating various host requirements from servers to departmental networks.
@@ -67,20 +67,20 @@ The network is meticulously divided into multiple subnets to ensure efficient da
 
 
 ## DNS Server Configuration
-![alt text](./config-images/image-2.png)
-![alt text](./config-images/image-3.png)
+![alt text](./config-images/dns.png)
+![alt text](./config-images/dns2.png)
 
 ## Route to ISP from mechanical Department (sample)
-![alt text](./config-images/image-4.png)
+![alt text](./config-images/tracert.png)
 
 ## Inter Area communication ( Civil Depart to Girls Hostel)
-![alt text](./config-images/image-5.png)
+![alt text](./config-images/tracert2.png)
 
 ## All random networks forwarded to ISP
-![alt text](./config-images/image-6.png)
+![alt text](./config-images/randomip.png)
 
 ## VLAN
-![alt text](./config-images/image-7.png)
+![alt text](./config-images/vlan.png)
 
 ## Key Features
 - **Subnetting Implementation**: Provides detailed host distribution across different network segments.
